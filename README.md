@@ -13,7 +13,7 @@ Tested on Chrome 48.0.2564.82, Firefox 36.0, Safari 5.1.7, IE 10, Opera 16.0. Li
 - Facebook: https://www.facebook.com/rashidali05
 - GitHub: https://github.com/rashidali05
 
-## SpecialThanks 
+## Special Thanks 
 
 - UiGradients: https://github.com/Ghosh/uiGradients
 - FontAwesome: https://github.com/FortAwesome/Font-Awesome
