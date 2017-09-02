@@ -3,7 +3,7 @@
 Simple Todo List App Using HTML5 CSS3 and JQuery
 
 <p align="center">
-    <img src="https://github.com/rashidali05/Todo-App/blob/master/todoApp.PNG"/>
+    <img src="https://github.com/rashidali05/Todo-App/blob/master/todoApp.png"/>
 </p>
 
 Tested on Chrome 48.0.2564.82, Firefox 36.0, Safari 5.1.7, IE 10, Opera 16.0. Limited support for IE8/9.
