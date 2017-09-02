@@ -10,17 +10,17 @@ Tested on Chrome 48.0.2564.82, Firefox 36.0, Safari 5.1.7, IE 10, Opera 16.0. Li
 
 [Check out the demo here.](http://rashidali05.github.io/Todo-App/demo/)
 
-## Authors
+## Connect with Me
 
-* **Rashid Ali**
 - Email: rashidali.pk99@gmail.com
 - Twitter: http://twitter.com/rashidali05
 - Facebook: https://www.facebook.com/rashidali05
-- Instagram: https://instagram.com/rashidali.05
+- GitHub: https://github.com/rashidali05
+
 
 ## Rashid  – Coming Soon Responsive Template
 
-**Rashid  – Coming Soon Responsive Template** is the perfect template for your freelancer/web agencies!
+**Rashid  – Coming Soon Responsive Template** is the perfect template for freelancers and web agencies!
 
 Tested on Chrome 26.0, Firefox 20.0, Safari 5.1.7, IE 10, Opera 16.0. Limited support for IE8/9.
 
